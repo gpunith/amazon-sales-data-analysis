@@ -245,6 +245,9 @@ Generated charts are saved in:
 ### Dashboard Screenshot
 
 ![Amazon Sales Dashboard Overview](d:\amazon_new\scripts\sales_dashboard.png)
+
+<img width="2040" height="2652" alt="sales_dashboard" src="https://github.com/user-attachments/assets/951f3b46-340d-483c-ba94-aa6d09607255" />
+
 ## 8. Folder Structure
 
 ```text
